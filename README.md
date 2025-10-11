@@ -1,8 +1,12 @@
-# 💫 About Me:
+<div align="center">
+    <img src="./banner.jpeg" alt="Ranjeet Kumar banner" width="100%" />
+</div>
+
+<h3 align="center">Hi 👋, I'm Ranjeet Kumar</h3>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ranjeetkumar-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
-### 🧠 About Me <br>
+### 💫 About Me <br>
 
 - 🔭 Currently building: **Generative AI projects** that blend creativity with automation. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - 🌱 Leveling up in: **DevOps** — mastering Jenkins, Docker, Kubernetes, and AWS. <br>
