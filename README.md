@@ -46,7 +46,7 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<a href="#">
+<a href="#"><br>
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a> -->
