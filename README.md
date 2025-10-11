@@ -51,12 +51,21 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <a href="#">
-<picture>
+
+<!-- <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
+
+<!-- Light mode (default) -->
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake.svg)
+
+<!-- Dark mode (manual toggle link) -->
+
+[![GitHub Contribution Snake - Dark](https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake-dark.svg)](https://github.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake-dark.svg)
 
 <hr></hr>
 
