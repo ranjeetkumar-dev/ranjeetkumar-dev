@@ -21,10 +21,6 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,jenkins,kubernetes,ansible,prometheus,grafana,githubactions,vercel,netlify)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,bash,git,neovim,vscode,idea,postman,figma,obsidian,replit)](https://skillicons.dev)
 
-<!-- # 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=ranjeetkumar-dev&theme=aura&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar-dev&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjeetkumar-dev&theme=aura)<br/> ![](https://github-readme-stats.vercel.app/api?username=ranjeetkumar-dev&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -50,5 +46,3 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- [![](https://visitcount.itsvg.in/api?id=ranjeetkumar-dev&icon=0&color=0)](https://visitcount.itsvg.in) -->
