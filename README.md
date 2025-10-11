@@ -3,11 +3,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ranjeet Kumar</h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake.svg">
-</picture>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ranjeetkumar-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -57,6 +52,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <a href="#">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake.svg">
+</picture>
+
 <hr></hr>
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
@@ -73,5 +74,3 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
 
 </div>
-
-<!-- test /-->
