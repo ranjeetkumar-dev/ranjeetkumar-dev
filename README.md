@@ -2,7 +2,7 @@
     <img src="./banner.jpeg" alt="Ranjeet Kumar banner" width="100%" />
 </div>
 
-<h3 align="center">Hi 👋, I'm Ranjeet Kumar</h3>
+# <h3 align="center">Hi 👋, I'm Ranjeet Kumar</h3>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ranjeetkumar-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
