@@ -4,7 +4,7 @@
 
 ### 🧠 About Me <br>
 
-- 🔭 Currently building: **Generative AI projects** that blend creativity with automation. <br>
+- 🔭 Currently building: **Generative AI projects** that blend creativity with automation. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - 🌱 Leveling up in: **DevOps** — mastering Jenkins, Docker, Kubernetes, and AWS. <br>
 - 💡 Obsessed with: **Clean UIs, efficient backend design, and smooth developer workflows.** <br>
 - 🐧 Daily driver: **Fedora Linux (GNOME + Hyprland)** — tuned to perfection. <br>
@@ -46,3 +46,6 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="#">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
