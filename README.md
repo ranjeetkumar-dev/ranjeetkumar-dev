@@ -21,9 +21,27 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,jenkins,kubernetes,ansible,prometheus,grafana,githubactions,vercel,netlify)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,bash,git,neovim,vscode,idea,postman,figma,obsidian,replit)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=ranjeetkumar-dev&theme=aura&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar-dev&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjeetkumar-dev&theme=aura)<br/> ![](https://github-readme-stats.vercel.app/api?username=ranjeetkumar-dev&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ranjeetkumar-dev&theme=aura&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar-dev&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjeetkumar-dev&theme=aura)<br/> ![](https://github-readme-stats.vercel.app/api?username=ranjeetkumar-dev&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- 🔥 Streak Stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=ranjeetkumar-dev&theme=aura&hide_border=false" alt="GitHub Streak" height="180em"/>
+
+<!-- 🧠 Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar-dev&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180em"/>
+
+<!-- 🧩 Profile Details -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjeetkumar-dev&theme=aura" alt="Profile Summary" width="100%"/>
+
+<!-- 📈 Overall Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ranjeetkumar-dev&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+
+</div>
 
 ## 🏆 GitHub Trophies
 
