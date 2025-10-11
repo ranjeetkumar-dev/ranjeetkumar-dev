@@ -3,6 +3,11 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ranjeet Kumar</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ranjeetkumar-dev/ranjeetkumar-dev/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ranjeetkumar-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
