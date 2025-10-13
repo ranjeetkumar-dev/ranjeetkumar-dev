@@ -20,10 +20,10 @@
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx,graphql,prisma,appwrite,firebase,mongodb,postgres,mysql,redis)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,jenkins,kubernetes,ansible,prometheus,grafana,githubactions,vercel,netlify)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,bash,git,neovim,vscode,idea,postman,figma,obsidian,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,html,css,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,graphql,prisma,appwrite,firebase,mongodb,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,ansible,jenkins,githubactions,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,git,vscode,postman,figma,obsidian)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
