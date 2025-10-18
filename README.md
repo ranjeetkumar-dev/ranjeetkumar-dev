@@ -30,19 +30,16 @@
     <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,tailwind,react&perline=7" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,prisma,appwrite,firebase,mongodb,postgres,mysql&perline=7" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,ansible,jenkins,githubactions,vercel" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,vscode,postman,figma,obsidian" />
