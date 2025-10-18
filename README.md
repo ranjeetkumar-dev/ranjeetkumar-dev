@@ -22,8 +22,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,js,html,css,tailwind,react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,prisma,appwrite,firebase,mongodb,postgres,mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,ansible,jenkins,githubactions,vercel&perline=8)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,git,vscode,postman,figma,obsidian&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,ansible,jenkins,githubactions,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,git,vscode,postman,figma,obsidian)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
