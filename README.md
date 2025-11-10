@@ -73,7 +73,7 @@
 </p>
 
 <!-- DevOps & Cloud -->
-<p align="center">
+<!-- <p align="center"> -->
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Azure-0078D4.svg?style=for-the-badge&logo=azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+<!-- </p> -->
 
 <!-- Tools, OS & Editors -->
 <p align="center">
