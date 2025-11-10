@@ -74,7 +74,7 @@
 <!-- DevOps & Cloud -->
 <p align="center">
   <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" />
-  <img alt="Azure" src="https://custom-icon-badges.demolab.com/badge/Azure-0078D4.svg?style=for-the-badge&logo=azure&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
